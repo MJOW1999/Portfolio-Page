@@ -67,3 +67,11 @@ header{
 p{
   font-family: "Karla", sans-serif;
 }
+#socials{
+  grid-area: footer;
+  padding: 20px;
+  text-align: center;
+  background-color: indigo;
+  font-family:"Karla", sans-serif;
+  color: lavender;
+}
