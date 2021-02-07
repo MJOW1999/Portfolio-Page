@@ -16,3 +16,20 @@
   margin: 0%;
   color: white;
 }
+#navbar{
+  background-color: dodgerblue;
+  grid-area: nav;
+  font-size: 17px;
+}
+#navbar a{
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: "Montserrat", sans-serif;
+  width: 25%;
+}
+#navbar a:hover{
+  background: cornflowerblue;
+}
