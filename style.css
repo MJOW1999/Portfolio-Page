@@ -101,3 +101,11 @@ p{
   background: black;
   color: white;
 }
+@media screen and (max-width: 768px){
+  #navbar{
+    font-size: 14px;
+  }
+  #navbar a{
+    width: 20%;
+  }
+}
