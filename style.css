@@ -47,3 +47,20 @@ header{
   font-size: 22px;
   font-family: "Rubik", sans-serif;
 }
+#projects{
+  grid-area: content1;
+  background-color: mediumpurple;
+  font-family: "Rubik", sans-serif;
+  padding-top: 30px;
+}
+.project-title, #projects a{
+  text-align: center;
+  color: white;
+  float: center;
+  text-decoration: none;
+  font-size: 20px;
+}
+#projects a:hover{
+  color: firebrick;
+  font-size: larger;
+}
