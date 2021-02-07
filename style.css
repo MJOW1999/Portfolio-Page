@@ -33,3 +33,17 @@
 #navbar a:hover{
   background: cornflowerblue;
 }
+header{
+  padding: 80px;
+  font-size: 22px;
+  text-align: center;
+  font-family: "Rubik", sans-serif;
+  background-color: darkslateblue;
+  color: gainsboro;
+}
+#welocme-section{
+  grid-area: header;
+  text-align: center;
+  font-size: 22px;
+  font-family: "Rubik", sans-serif;
+}
